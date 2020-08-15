@@ -1,0 +1,5 @@
+Based on the data generated from the Heroes of Pymoli here are 3 observable trends:
+
+1. There are 6 times as many male players as female players which later proves to why there is almost 5 times as much purchase value between males and females.
+2. There are significantly more 20-24 year olds playing and they too are spending 5 times the amount of money compared to other age groups. 
+3. There are 179 Items in the game available to purchase and according to the data, players are spending more money and more likely to purchase items towards the end of the game (if the item ids are in order of when they are available to purchase).
